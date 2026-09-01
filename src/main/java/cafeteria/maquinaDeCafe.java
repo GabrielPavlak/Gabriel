@@ -14,7 +14,7 @@ public class maquinaDeCafe {
             System.out.println("2 - Repor água");
             System.out.println("3 - Repor café");
             System.out.println("4 - Repor açúcar");
-            System.out.println("5 - Repor copo");
+            System.out.println("5 - Repor copos");
             System.out.println("6 - Ver estoque");
             System.out.println("0 - Sair");
             System.out.print("Escolha uma opção: ");
